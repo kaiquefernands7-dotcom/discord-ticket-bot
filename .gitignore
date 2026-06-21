@@ -2,3 +2,12 @@ node_modules/
 .env
 database.json
 temp/
+
+# Safety rules added by backup script
+*.exe
+*.zip
+*.msi
+node_modules/
+bin/
+obj/
+.env
